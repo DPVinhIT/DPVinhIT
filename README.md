@@ -2,8 +2,7 @@
 
 ### Information Systems Student | Backend Developer
 
-I'm an Information Systems student with a strong interest in  
-**Backend Engineering, Distributed Systems, and Data Engineering**.
+I'm an Information Systems student at **University of Science, VNU-HCM (HCMUS)** with a strong interest in **Backend Engineering, Distributed Systems, and Data Engineering**.
 
 Currently, I'm focusing on **Java & Spring Boot**, building RESTful APIs and backend systems while improving my knowledge of databases, microservices, distributed systems, and data processing.
 
@@ -15,16 +14,16 @@ My current career path:
 
 ## 🚀 About Me
 
-- 🎓 Information Systems student
-- 💻 Focused on Backend Development
+- 🎓 Information Systems student at **HCMUS**
+- 💻 Focused on **Backend Development**
 - ☕ Learning and building with **Java & Spring Boot**
 - 🏗️ Interested in **Microservices & Distributed Systems**
 - 🗄️ Working with **MySQL & MongoDB**
 - ☁️ Working with **Cloudinary** for cloud-based media storage
-- 🐳 Learning Docker & containerized applications
+- 🐳 Working with **Docker & containerized applications**
 - ⚡ Exploring **Apache Kafka** for event-driven systems
 - 🔥 Learning **Apache Spark & Big Data**
-- 🔐 Interested in secure authentication and API design
+- 🔐 Interested in **secure authentication and API design**
 - 📚 Continuously improving my software engineering skills
 - 🎯 Career goal: **Backend Engineer → Data Engineer**
 
@@ -37,7 +36,6 @@ My current career path:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
 
@@ -46,6 +44,14 @@ My current career path:
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔐 Authentication & Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### ⚡ Distributed Systems & Data Engineering
@@ -69,7 +75,6 @@ My current career path:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
 ---
 
 ## 📌 Featured Projects
@@ -90,7 +95,7 @@ A room rental and booking management system designed to support the process of c
 
 **Technologies:**
 
-`Node.js` · `REST API` · `MySQL` · `JWT` · `Docker`
+`Node.js` · `REST API` · `MySQL` · `JWT` · `Docker` · `Cloudinary`
 
 ---
 
@@ -102,7 +107,7 @@ The service follows a layered backend architecture and provides RESTful APIs for
 
 **Technologies:**
 
-`Java 21` · `Spring Boot 3` · `MongoDB` · `REST API`
+`Java 21` · `Spring Boot 3` · `MongoDB` · `REST API` · `Spring Security` · `Keycloak`
 
 ---
 
