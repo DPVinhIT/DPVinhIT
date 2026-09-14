@@ -1,12 +1,3 @@
-# Hi, I'm Phước Vinh 👋
-
-### Information Systems Student | Backend Developer
-
-I'm an Information Systems student at **University of Science, VNU-HCM (HCMUS)** with a strong interest in **Backend Engineering, Distributed Systems, and Data Engineering**.
-
-Currently, I'm focusing on **Java & Spring Boot**, building RESTful APIs and backend systems while improving my knowledge of databases, microservices, distributed systems, and data processing.
-
-My current career path:
 <h1 align="center">Hi, I'm Phước Vinh <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
@@ -43,7 +34,7 @@ My current career path: **Backend Engineering ➔ Data Engineering**
 📫 **How to reach me:**
 <p align="left">
   <a href="mailto:dpvinhit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/do-phuoc-vinh-57432b373/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/do-phuoc-vinh-57432b373/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -82,17 +73,6 @@ My current career path: **Backend Engineering ➔ Data Engineering**
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPVinhIT&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPVinhIT&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -140,4 +120,3 @@ A streaming data pipeline for processing file metadata events using an event-dri
          │
          ▼
      [MongoDB]
-**Backend Engineering → Data Engineering**
